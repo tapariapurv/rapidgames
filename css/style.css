@@ -8,3 +8,7 @@
     width:15%;
     height:100%;
 }
+.search-bar {
+    border-radius:8px;
+    float:right;
+}
