@@ -12,4 +12,11 @@
 .search-bar {
     border-radius:8px;
     float:right;
+
+}
+
+.gameone{
+    width:100px;
+    height:100px;
+    background-image:url('thief-puzzle.avif');
 }
