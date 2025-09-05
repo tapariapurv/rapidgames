@@ -12,7 +12,8 @@
 .search-bar {
     border-radius:40px;
     height:2px;
-    float:right;
+    margin-left:3px;
+    float:left;
 }
 .game-horizontal img{
     width:auto;
