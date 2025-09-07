@@ -1,3 +1,6 @@
+body {
+    background-color:#1a1a2e;
+}
 .homepage-header {
     height:5%;
     width:90%;
@@ -5,8 +8,8 @@
 }
 .logo {
     float:left;
-    width:20%;
-    height:100%;
+    width:70;
+    height:56;
     border-radius:8px;
 }
 .search-bar {
