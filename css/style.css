@@ -18,8 +18,14 @@
 .game-horizontal img{
     width:auto;
     height:auto;
-    border-radius:8px;
+    border-radius:20px;
+    margin-top:40px;
+    margin-left:20px;
 }
 .game-horizontal {
     margin-top:2px;
-}    
+}
+.game-horizontal img:hover {
+    width:400px;
+    height:228;
+}
