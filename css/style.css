@@ -21,6 +21,7 @@
     border-radius:20px;
     margin-top:40px;
     margin-left:20px;
+    float:left;
 }
 .game-horizontal {
     margin-top:2px;
