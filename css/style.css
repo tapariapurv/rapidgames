@@ -50,4 +50,17 @@ a:hover {
 .footer {
     margin-top:10px;
     color:white;
+    bottom:0;
+    position:sticky;
+    text-align:center;
+}
+.description { 
+    padding-top:0.5px;
+    background-color:darkblue;
+    border-radius:8px;
+    margin-bottom:10px;
+    padding-bottom:0.5px;
+    margin-left:100;
+    padding-left:175;
+    padding-right:175;
 }
