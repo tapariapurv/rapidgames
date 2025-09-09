@@ -38,3 +38,9 @@ body {
     height:218px;
     float:left;
 }
+.footer {
+    width:100%;
+    height:auto;
+    color:#01014d;
+    border-radius:15px; 
+}
