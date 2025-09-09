@@ -18,9 +18,13 @@ body {
     margin-left:3px;
     float:left;
 }
+.first-row {
+    width:100%;
+    float:left;
+}
 .game-horizontal img{
-    width:auto;
-    height:auto;
+    width:388px ;
+    height:216px;
     border-radius:20px;
     margin-top:40px;
     margin-left:20px;
@@ -30,6 +34,7 @@ body {
     margin-top:2px;
 }
 .game-horizontal img:hover {
-    width:400px;
-    height:228;
+    width:390px;
+    height:218px;
+    float:left;
 }
