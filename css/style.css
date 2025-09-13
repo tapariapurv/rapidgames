@@ -47,3 +47,38 @@ a:hover {
     float:left;
     overflow:hidden;
 }
+.game-horizontal-last img{
+    width:388px ;
+    height:216px;
+    border-radius:20px;
+    margin-top:40px;
+    margin-left:20px;
+    float:left;
+    margin-bottom:20;
+}
+.game-horizontal-last {
+    margin-top:2px;
+}
+.game-horizontal-last img:hover {
+    width:390px;
+    height:218px;
+    float:left;
+    overflow:hidden;
+}
+.description p {
+    color:white;
+}
+.description {
+    background-color:darkblue;
+    padding-top:0.5;
+    padding-bottom:0.5;
+    padding-left:100;
+    padding-right:100;
+    margin-left:130;
+    margin-right:130;
+    border-radius:8px;
+    position:sticky;
+    float:bottom;
+    display:flex;
+    flex:1;
+}
