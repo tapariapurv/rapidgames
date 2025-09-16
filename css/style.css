@@ -65,6 +65,23 @@ a:hover {
     float:left;
     overflow:hidden;
 }
+.game-horizontal-408x408 img{
+    width:408px ;
+    height:408px;
+    border-radius:20px;
+    margin-top:40px;
+    margin-left:20px;
+    float:left; 
+}
+.game-horizontal-408x408 {
+    margin-top:2px;
+}
+.game-horizontal-408x408 img:hover {
+    width:410px;
+    height:410px;
+    float:left;
+    overflow:hidden;
+}
 .description p {
     color:white;
 }
