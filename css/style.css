@@ -11,6 +11,7 @@ body {
 	margin-top:5px;
 	font-family:Cursive;
 	color:black;
+    margin-bottom:10px;
 }
 .nameheader font:hover {
 	color:black
@@ -42,6 +43,7 @@ body {
 	   position:sticky;
 	   top:0;
        border-radius:20px;
+       margin-bottom:15px;
 }
 
 a {
@@ -143,10 +145,17 @@ a:hover {
 }
 .about-content {
     border-radius:8px;
-    margin-top:50;
+    margin-top:100;
     background-color:rgb(1, 132, 118);
-    padding-right:400;
+    padding-left:200;
+    padding-right:200;
     display:flex;
     flex:1;
     float:bottom;
+}
+.about-content-section {
+    margin-top:15px;
+}
+.about-content-section-center-content {
+    text-align:center;
 }
