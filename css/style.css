@@ -81,7 +81,7 @@ a:hover {
     margin-top:40px;
     margin-left:20px;
     float:left;
-    transition: width 0.75s, height 0.75s;
+    transition: all 0.3s ease-in-out;
 }
 .game-horizontal {
     margin-top:2px;
@@ -100,7 +100,7 @@ a:hover {
     margin-left:20px;
     float:left;
     margin-bottom:20;
-    transition: width 0.75s, height 0.75;
+    transition: all 0.3s ease-in-out;
 }
 .game-horizontal-last {
     margin-top:2px;
@@ -118,7 +118,7 @@ a:hover {
     margin-top:40px;
     margin-left:20px;
     float:left; 
-    transition: width 2s, height 2s;
+    transition: all 0.4s ease-in-out;
 }
 .game-horizontal-408x408 {
     margin-top:2px;
