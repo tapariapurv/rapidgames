@@ -85,6 +85,7 @@ a:hover {
 }
 .game-horizontal {
     margin-top:2px;
+    position:relative;
 }
 .game-horizontal img:hover {
     width:390px;
@@ -104,6 +105,7 @@ a:hover {
 }
 .game-horizontal-last {
     margin-top:2px;
+    position:relative;
 }
 .game-horizontal-last img:hover {
     width:390px;
@@ -122,6 +124,7 @@ a:hover {
 }
 .game-horizontal-408x408 {
     margin-top:2px;
+    position:relative;
 }
 .game-horizontal-408x408 img:hover {
     width:410px;
@@ -129,6 +132,180 @@ a:hover {
     float:left;
     overflow:hidden;
 }
+
+/* ===== RATING SYSTEM STYLES - DEEPLY INTEGRATED ===== */
+
+/* Game rating container */
+.game-rating {
+    position: absolute;
+    bottom: 0;
+    left: 20px;
+    right: 20px;
+    background: linear-gradient(135deg, rgba(1, 132, 118, 0.95), rgba(26, 26, 46, 0.9));
+    border-radius: 0 0 20px 20px;
+    padding: 8px 12px;
+    backdrop-filter: blur(10px);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+    z-index: 10;
+}
+
+/* Rating stars container */
+.rating-stars {
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+    margin-bottom: 4px;
+}
+
+/* Individual stars */
+.rating-stars .star {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.3);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+    user-select: none;
+}
+
+/* Star hover state */
+.rating-stars .star:hover,
+.rating-stars .star.hover {
+    color: #ffd700;
+    transform: scale(1.1);
+    text-shadow: 0 0 8px rgba(255, 215, 0, 0.6);
+}
+
+/* Selected stars */
+.rating-stars .star.selected {
+    color: #ffb400;
+    text-shadow: 0 0 6px rgba(255, 180, 0, 0.5);
+}
+
+/* Rating info */
+.rating-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 11px;
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: 500;
+}
+
+.current-rating {
+    color: #ffd700;
+    font-weight: bold;
+}
+
+.rating-separator {
+    margin: 0 4px;
+    opacity: 0.6;
+}
+
+.total-ratings {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+/* Rating confirmation popup */
+.rating-confirmation {
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(45deg, #28a745, #20c997);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 15px;
+    font-size: 12px;
+    font-weight: bold;
+    box-shadow: 0 4px 15px rgba(40, 167, 69, 0.4);
+    animation: ratingFadeIn 0.3s ease, ratingFadeOut 0.3s ease 1.7s forwards;
+    z-index: 20;
+}
+
+/* Animations */
+@keyframes ratingFadeIn {
+    from {
+        opacity: 0;
+        transform: translateX(-50%) translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+    }
+}
+
+@keyframes ratingFadeOut {
+    from {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+    }
+    to {
+        opacity: 0;
+        transform: translateX(-50%) translateY(-10px);
+    }
+}
+
+/* Game container hover effects with ratings */
+.game-horizontal:hover .game-rating,
+.game-horizontal-last:hover .game-rating,
+.game-horizontal-408x408:hover .game-rating {
+    background: linear-gradient(135deg, rgba(1, 132, 118, 1), rgba(26, 26, 46, 0.95));
+    border-top: 2px solid rgba(255, 215, 0, 0.3);
+}
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+    .rating-stars .star {
+        font-size: 16px;
+    }
+    
+    .rating-info {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    .game-rating {
+        left: 10px;
+        right: 10px;
+        padding: 6px 8px;
+    }
+    
+    .rating-stars .star {
+        font-size: 14px;
+        gap: 1px;
+    }
+    
+    .rating-info {
+        font-size: 9px;
+    }
+}
+
+/* Integration with existing search functionality */
+.search-bar input {
+    padding: 10px 15px;
+    border: 2px solid rgba(1, 132, 118, 0.3);
+    border-radius: 25px;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    font-size: 14px;
+    width: 300px;
+    transition: all 0.3s ease;
+}
+
+.search-bar input:focus {
+    outline: none;
+    border-color: rgba(1, 132, 118, 0.8);
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 0 10px rgba(1, 132, 118, 0.3);
+}
+
+.search-bar input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+/* Enhanced description section */
 .description p {
     color:white;
 }
