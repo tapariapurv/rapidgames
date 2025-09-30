@@ -188,13 +188,3 @@ a:hover {
 .about-content-section-center-content {
     text-align:center;
 }
-.rating span {
-    font-size: 2rem;
-    cursor: pointer;
-    color: gray;
-  }
-  .rating span:hover,
-  .rating span:hover ~ span {
-    color: gold;
-  }
-  
