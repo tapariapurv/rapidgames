@@ -22,10 +22,9 @@ Our goal is to provide a simple, fast, and fun experience for finding and playin
 
 Here's a quick look at the Rapid Games interface. Easy to browse, and even easier to play!
 
-*To add a GIF, record your screen while using the website and save it as `website-demo.gif` inside an `images/readme` folder. Then, uncomment the line below.*
-<!-- <p align="center">
-  <img src="images/readme/website-demo.gif" alt="Rapid Games Demo">
-</p> -->
+<p align="center">
+  <img src="assets/videos/Rapid Games Promo.mp4" alt="Rapid Games Promo">
+</p>
 
 ## ✨ Features
 
