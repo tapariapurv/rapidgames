@@ -1,13 +1,7 @@
 # 🎮 Rapid Games
 
-<style>
-    body {
-        background-color:#1a1a2e;
-    }
-</style>
-
 <p align="center">
-  <img src="images/logos/New%20Logo.png" alt="Rapid Games Logo" width="150">
+  <img src="images/logos/New logo.png" alt="Rapid Games Logo" width="150">
 </p>
 
 <h1 align="center">Rapid Games</h1>
