@@ -23,7 +23,7 @@ Our goal is to provide a simple, fast, and fun experience for finding and playin
 Here's a quick look at the Rapid Games interface. Easy to browse, and even easier to play!
 
 <p align="center">
-  <img src="assets/videos/Rapid Games Promo.mp4" alt="Rapid Games Promo">
+  <embed src="assets/videos/Rapid Games Promo Without Audio.mp4" alt="Rapid Games Promo">
 </p>
 
 ## ✨ Features
