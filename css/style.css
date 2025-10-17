@@ -93,6 +93,9 @@ a:hover {
     float:left;
     overflow:hidden;
 }
+.float-right {
+    float: right !important;
+}
 .game-horizontal-last img{
     width:388px ;
     height:216px;
