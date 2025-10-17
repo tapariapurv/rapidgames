@@ -68,4 +68,4 @@ We are constantly working to make this website even better and your feedback is 
 
 ---
 
-<p align="center">Special thanks to CrazyGames.com and Poki.com for hosting these amazing games.</p>
+<p align="center">Special thanks to CrazyGames.com, Poki.com and Slowroads.io for hosting these amazing games.</p>
