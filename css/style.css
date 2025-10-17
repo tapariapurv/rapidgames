@@ -157,24 +157,6 @@ a:hover {
     color: rgba(255, 255, 255, 0.6);
 }
 
-/* Enhanced description section */
-.description p {
-    color:white;
-}
-.description {
-    background-color:rgb(1, 132, 118);
-    padding-top:0.5;
-    padding-bottom:0.5;
-    padding-left:100;
-    padding-right:100;
-    margin-left:130;
-    margin-right:130;
-    border-radius:8px;
-    position:sticky;
-    float:bottom;
-    display:flex;
-    flex:1;
-}
 .about-content {
     border-radius:8px;
     margin-top:100;
@@ -190,4 +172,64 @@ a:hover {
 }
 .about-content-section-center-content {
     text-align:center;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #11111b; /* Dark background for the footer */
+    color: #a9a9a9; /* Light gray text color */
+    padding: 40px 20px;
+    margin-top: 50px;
+    width: 100%;
+    float: left; /* Ensures it clears floated elements above */
+    box-sizing: border-box; /* Includes padding in the width/height */
+}
+
+.footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-section {
+    flex: 1;
+    padding: 0 20px;
+    min-width: 250px;
+    margin-bottom: 20px;
+}
+
+.footer-section h3 {
+    color: #ffffff;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #018476;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+
+.footer-section.about p {
+    line-height: 1.6;
+}
+
+.footer-section.links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section.links ul li a {
+    color: #a9a9a9;
+    transition: color 0.3s ease;
+}
+
+.footer-section.links ul li a:hover {
+    color: #ffffff;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 20px;
+    border-top: 1px solid #333;
+    width: 100%;
 }
