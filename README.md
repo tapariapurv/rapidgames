@@ -18,14 +18,6 @@ Our goal is to provide a simple, fast, and fun experience for finding and playin
 
 ---
 
-### Website Preview
-
-Here's a quick look at the Rapid Games interface. Easy to browse, and even easier to play!
-
-<p align="center">
-  <embed src="assets/videos/Rapid Games Promo Without Audio.mp4" alt="Rapid Games Promo">
-</p>
-
 ## ✨ Features
 
 -   **Curated Game Library**: A massive collection of games that our team loves to play.
@@ -46,7 +38,7 @@ Here's a quick look at the Rapid Games interface. Easy to browse, and even easie
 This website was brought to life by a team of young and passionate developers:
 
 -   **Purv Taparia** (9 years old) - @tapariapurv
--   **Aarav** (11 years old) - @worldknownr
+-   **Ridit** (11 years old) - @worldknownr
 -   **Devansh** (12 years old) - @devansh8686
 
 Their dedication and love for gaming are what make this project special.
