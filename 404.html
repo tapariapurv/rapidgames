@@ -6,43 +6,22 @@
         <link rel="icon" href="images/logos/New logo croppped resized removebg.png" type="image/x-icon">
         <title>404 Page Not Found - Rapid Games</title>
         <style>
-            body {
+            .error-page {
                 color:white;
+                background-color: #1a1a2e; /* Match main background */
             }
         </style>
     </head>
-    <body>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <center>
-            <img src = "images/logos/New logo croppped resized removebg.png" width="150" height="150">
-            <br>
-            <br>
-            <br>
-            <br>
-            <font style = "font-size: 70px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
-                Error 404!
-            </font>
-            <br>
-            <br>
-            <font style="font-size: 50px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
-            This page does not exist, please double-check the url.
-            </font>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <p>
-            Click 
-            <a href="index.html">
-                here
-            </a>
-            to go to the homepage.
-        </p>
-    </center>
+    <body class="error-page">
+        <div class="error-container">
+            <div class="error-graphic">
+                <span class="error-code">4</span>
+                <div class="error-ghost"></div>
+                <span class="error-code">4</span>
+            </div>
+            <h1 class="error-title">Oops! Page Not Found</h1>
+            <p class="error-message">It seems you've ventured into uncharted territory. The page you're looking for doesn't exist.</p>
+            <a href="index.html" class="error-button">Return to Homepage</a>
+        </div>
     </body>
 </html>
