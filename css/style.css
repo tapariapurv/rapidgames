@@ -173,16 +173,33 @@ a:hover {
 .about-content-section-center-content {
     text-align:center;
 }
-
-/* Footer Styles */
+.game-horizontal-188x188 {
+    width:188px ;
+    height:188px;
+    border-radius:20px;
+    margin-top:40px;
+    margin-left:20px;
+    float:left;
+    transition: all 0.3s ease-in-out;
+}
+.game-horizontal-188x188 {
+    margin-top:2px;
+    position:relative;
+}
+.game-horizontal-188x188 img:hover {
+    width:190px;
+    height:190px;
+    float:left;
+    overflow:hidden;
+}
 footer {
-    background-color: #11111b; /* Dark background for the footer */
-    color: #a9a9a9; /* Light gray text color */
+    background-color: #11111b; 
+    color: #a9a9a9;
     padding: 40px 20px;
     margin-top: 50px;
     width: 100%;
-    float: left; /* Ensures it clears floated elements above */
-    box-sizing: border-box; /* Includes padding in the width/height */
+    float: left;
+    box-sizing: border-box;
 }
 
 .footer-content {

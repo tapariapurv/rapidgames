@@ -26,13 +26,6 @@ Our goal is to provide a simple, fast, and fun experience for finding and playin
 -   **AI Chatbot Assistant**: Have a question? Our friendly chatbot, powered by Chatbase, is here to help you with any query about the site.
 -   **Community Driven**: We are always looking for feedback to make the site even better.
 
-### Chatbot in Action
-
-*Take a screenshot of the chatbot on your site and save it as `chatbot-preview.png` in an `images/readme` folder. Then, uncomment the line below.*
-<!-- <p align="center">
-  <img src="images/readme/chatbot-preview.png" alt="Chatbot Preview" width="400">
-</p> -->
-
 ## 👨‍💻 About the Creators
 
 This website was brought to life by a team of young and passionate developers:
