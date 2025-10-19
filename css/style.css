@@ -2,8 +2,6 @@ body {
     background-color:#1a1a2e;
     font-family:Arial, Helvetica, sans-serif;
 }
-/* Topnav */
-
 .nameheader {
 	float:left;
 	font-size:25;
@@ -59,7 +57,7 @@ a:hover {
     padding: 15px 30px;
     width: 100%;
     box-sizing: border-box;
-    margin-bottom: 20px; /* Adds space between header and game grid */
+    margin-bottom: 20px;
 }
 .logo {
     float:left;
@@ -68,7 +66,7 @@ a:hover {
     border-radius:8px;
 }
 .search-bar {
-    margin-left: auto; /* Pushes the search bar to the right */
+    margin-left: auto;
 }
 
 .first-row {
@@ -138,12 +136,12 @@ a:hover {
     background: rgba(255, 255, 255, 0.1);
     color: white;
     font-size: 14px;
-    width: 400px; /* Increased base width */
+    width: 400px;
     transition: all 0.3s ease;
 }
 
 .search-bar input:focus {
-    width: 500px; /* Expanded width on focus */
+    width: 500px;
 }
 
 .search-bar input::placeholder {
@@ -225,7 +223,6 @@ footer {
     width: 100%;
 }
 
-/* --- 404 Error Page Styles --- */
 .error-container {
     display: flex;
     flex-direction: column;
@@ -273,11 +270,11 @@ footer {
 }
 
 .error-ghost::before {
-    left: 20px; /* Left eye */
+    left: 20px;
 }
 
 .error-ghost::after {
-    right: 20px; /* Right eye */
+    right: 20px;
 }
 
 @keyframes float {
