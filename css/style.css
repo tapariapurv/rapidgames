@@ -151,7 +151,7 @@ a:hover {
 .about-content {
     border-radius:8px;
     margin-top:100;
-    background-color:rgb(1, 132, 118);
+    background-color:rgb(204, 142, 233);
     padding-left:200;
     padding-right:200;
     display:flex;
@@ -162,6 +162,17 @@ a:hover {
     margin-top:15px;
 }
 .about-content-section-center-content {
+    text-align:center;
+}
+.about-content-game-sources {
+    border-radius:8px;
+    margin-top:0.25;
+    background-color:rgb(2, 202, 247);
+    padding-left:200;
+    padding-right:200;
+    display:flex;
+    flex:1;
+    float:bottom;
     text-align:center;
 }
 footer {
