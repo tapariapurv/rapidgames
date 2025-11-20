@@ -1,0 +1,1478 @@
+{
+ "chatbotId": "4y_-QRHE_CFcBSRACUBxQ",
+ "chatbotName": "Chatbase training data.pdf",
+ "startDateStr": "2025-09-19",
+ "endDateStr": "2025-10-19",
+ "conversations": [
+  {
+   "chatbot_id": "4y_-QRHE_CFcBSRACUBxQ",
+   "account_id": "bca29db8-3873-46a7-8e02-33974adbf4ab",
+   "country": "India",
+   "created_at": "2025-09-24T16:15:09.227158+00:00",
+   "form_submission": null,
+   "id": "cb3ddd1a-aa54-42f1-b64a-1539e1c0d821",
+   "messages": [
+    {
+     "createdAt": "2025-09-24T16:15:00.936Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "🎮 Welcome to Rapid Games! I'm your personal gaming assistant, ready to help you discover amazing games from our collection of 21+ titles sourced from CrazyGames and Poki."
+    },
+    {
+     "createdAt": "2025-09-24T16:15:00.936Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Whether you're looking for action-packed racing games, brain-teasing puzzles, competitive sports challenges, or relaxing idle games, I can help you find the perfect match!"
+    },
+    {
+     "createdAt": "2025-09-24T16:15:00.936Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "How can I assist you today?"
+    },
+    {
+     "createdAt": "2025-09-24T16:15:00.936Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Recommend games based on your preferences"
+    },
+    {
+     "createdAt": "2025-09-24T16:15:00.936Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Find specific games or genres"
+    },
+    {
+     "createdAt": "2025-09-24T16:15:00.936Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Explain game features and difficulty levels"
+    },
+    {
+     "createdAt": "2025-09-24T16:15:00.936Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Help you navigate the website"
+    },
+    {
+     "createdAt": "2025-09-24T16:15:00.936Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Answer any questions about our game collection"
+    },
+    {
+     "createdAt": "2025-09-24T16:15:00.936Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Just tell me what kind of gaming experience you're in the mood for, and let's find your next favorite game! 🚀"
+    },
+    {
+     "id": "6a192f0f-53e3-45c4-8319-845d42768284",
+     "createdAt": "2025-09-24T16:15:00.936Z",
+     "role": "user",
+     "content": "Tell me what game are sport - based"
+    },
+    {
+     "id": "18beb601-d019-4051-85ab-32baa8a1cc27",
+     "stepId": "06582ba2-6963-4e31-8be3-54e89b1357f8",
+     "createdAt": "2025-09-24T16:15:08.692Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.45703125,
+     "content": "Sure! Here are some sport-based games you might enjoy:\n\n1. **Soccer Skills World Cup** - A thrilling soccer game where you can showcase your skills on the field.\n2. **Table Tennis World Tour** - Challenge yourself in this exciting table tennis game.\n3. **Penalty Shooters 2** - Test your penalty shooting skills in this fun and competitive game.\n\nFeel free to explore these games and have a great time playing! If you need more recommendations, just let me know. 😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    },
+    {
+     "id": "b88938eb-9946-4f2b-8f20-6cc0c2b208c4",
+     "createdAt": "2025-10-19T05:00:12.011Z",
+     "role": "user",
+     "content": "Are there any battle like games"
+    },
+    {
+     "id": "a7985d6f-f1e3-4a4b-a204-6346bb5282d1",
+     "stepId": "86d36802-d082-42bc-ae99-3eafd5c6c43d",
+     "createdAt": "2025-10-19T05:00:17.883Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.4609375,
+     "content": "Absolutely! If you're interested in battle-like games, here are a few you might enjoy:\n\n1. **Combat Reloaded 2** - Engage in intense multiplayer battles in this action-packed shooter game.\n2. **Sniper Mission** - Test your precision and strategy in this thrilling sniper game.\n3. **Battleship War** - Strategize and sink your opponent's ships in this classic naval battle game.\n\nThese games offer exciting combat experiences, so dive in and have fun! If you need more suggestions, feel free to ask. 🎮",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/index.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      }
+     ]
+    },
+    {
+     "id": "b022409e-c290-4cb0-a6ac-a2278b629dee",
+     "createdAt": "2025-10-19T05:00:27.479Z",
+     "role": "user",
+     "content": "What about something like minecraft"
+    },
+    {
+     "id": "602af12c-24aa-4559-9e19-6c791e055128",
+     "stepId": "35c9090a-bd30-4100-8f01-8b64ab7bfd04",
+     "createdAt": "2025-10-19T05:00:32.731Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.59765625,
+     "content": "If you're looking for games similar to Minecraft, you might enjoy:\n\n1. **Bloxd.io** - A creative and fun game where you can build and explore in a blocky world.\n\nThis game offers a similar experience to Minecraft, allowing you to unleash your creativity. Enjoy building and exploring! If you have any other preferences, just let me know. 😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/index.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      }
+     ]
+    },
+    {
+     "id": "ccc7797e-08e4-4248-8ac6-e48c1e776f74",
+     "createdAt": "2025-10-19T05:00:38.205Z",
+     "role": "user",
+     "content": "and brainrot games"
+    },
+    {
+     "id": "716a628b-0ec1-4881-95df-82e681633a70",
+     "stepId": "1aa6e497-c1d2-457f-9ab7-f6dcf3d9b917",
+     "createdAt": "2025-10-19T05:00:42.664Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.55078125,
+     "content": "For a game that offers a unique and intriguing experience, you might want to try:\n\n- **Steal Brainrot Online** - Dive into a captivating world with puzzles and challenges that will keep you engaged.\n\nEnjoy the adventure and have fun exploring! If you have any other game preferences or need further assistance, feel free to ask. 😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      }
+     ]
+    },
+    {
+     "id": "91eadc25-5e61-49d6-8846-a9ea7911f359",
+     "createdAt": "2025-10-19T05:01:01.854Z",
+     "role": "user",
+     "content": "What is the hardest game to play among everything"
+    },
+    {
+     "id": "d66a56ca-86d6-42c2-bf7f-6f21f0700df9",
+     "stepId": "7b6021f3-42c7-4c0a-a663-2aecaaa132ee",
+     "createdAt": "2025-10-19T05:01:07.440Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.42578125,
+     "content": "The difficulty of a game can vary depending on personal preferences and skills, but one game that is often considered challenging is **Sniper Mission**. It requires precision, strategy, and quick reflexes to succeed. \n\nIf you're up for a challenge, give it a try and see how you fare! Remember, practice makes perfect. If you need more recommendations or have any other questions, feel free to ask. Enjoy your gaming! 🎮",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/index.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      }
+     ]
+    }
+   ],
+   "min_score": 0.42578125,
+   "source": "Widget or Iframe",
+   "anonymous_id": "fda19cab-2568-48c5-8cd4-4de674fd5029",
+   "user_id": null,
+   "last_message_at": "2025-10-19T05:01:07.488759+00:00",
+   "sentiment": null,
+   "external_conversation_id": null,
+   "title": "Sport-Based Games Recommendations",
+   "topics": [],
+   "external_messages": []
+  },
+  {
+   "chatbot_id": "4y_-QRHE_CFcBSRACUBxQ",
+   "account_id": "bca29db8-3873-46a7-8e02-33974adbf4ab",
+   "country": "India",
+   "created_at": "2025-10-16T13:43:43.798033+00:00",
+   "form_submission": null,
+   "id": "4839f20f-438a-43de-b07b-018d38b8b65d",
+   "messages": [
+    {
+     "createdAt": "2025-10-16T13:43:39.885Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "🎮 Welcome to Rapid Games! I'm your personal gaming assistant, ready to help you discover amazing games from our collection of 21+ titles sourced from CrazyGames and Poki."
+    },
+    {
+     "id": "e28c26af-ffbc-4276-a5d2-59d4ad9429cf",
+     "createdAt": "2025-10-16T13:43:39.885Z",
+     "role": "user",
+     "content": "Is Steal Brainrot Online there"
+    },
+    {
+     "id": "04ec982b-ab80-4540-b11f-a67947ea243e",
+     "stepId": "b0359e42-30bb-47ac-a309-21551fa00b72",
+     "createdAt": "2025-10-16T13:43:42.919Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.68359375,
+     "content": "Yes, \"Steal Brainrot Online\" is available in our collection! You can enjoy playing it on CrazyGames. If you have any other questions or need further assistance, feel free to ask. Happy gaming! 😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/index.html"
+      }
+     ]
+    },
+    {
+     "id": "fe271427-75d3-4540-b41a-973c3e84989e",
+     "createdAt": "2025-10-16T13:43:50.140Z",
+     "role": "user",
+     "content": "Can you give the link"
+    },
+    {
+     "id": "c0c98e9c-9361-4b96-a2a7-a4a9a7557718",
+     "stepId": "42dfd203-7780-42a1-b886-b678714976d2",
+     "createdAt": "2025-10-16T13:43:54.867Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.76953125,
+     "content": "Certainly! You can play \"Steal Brainrot Online\" by following this [link](https://www.crazygames.com/game/steal-brainrot-online). Enjoy the game, and if you have any more questions, feel free to reach out. Have fun! 🎮",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/index.html"
+      }
+     ]
+    }
+   ],
+   "min_score": 0.68359375,
+   "source": "Playground",
+   "anonymous_id": null,
+   "user_id": "1ecaf646-d51d-49ab-b5e2-d497d822144a",
+   "last_message_at": "2025-10-16T13:43:54.982876+00:00",
+   "sentiment": null,
+   "external_conversation_id": null,
+   "title": "Inquiry about Steal Brainrot Online",
+   "topics": [],
+   "external_messages": []
+  },
+  {
+   "chatbot_id": "4y_-QRHE_CFcBSRACUBxQ",
+   "account_id": "bca29db8-3873-46a7-8e02-33974adbf4ab",
+   "country": "India",
+   "created_at": "2025-10-16T13:40:44.034194+00:00",
+   "form_submission": null,
+   "id": "82e2e01a-9704-4d08-a5a8-1ad122c02321",
+   "messages": [
+    {
+     "createdAt": "2025-10-16T13:40:39.275Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "🎮 Welcome to Rapid Games! I'm your personal gaming assistant, ready to help you discover amazing games from our collection of 21+ titles sourced from CrazyGames and Poki."
+    },
+    {
+     "id": "86970a57-0be9-49b9-af3b-7a995c821a3a",
+     "createdAt": "2025-10-16T13:40:39.275Z",
+     "role": "user",
+     "content": "Is there a version of steal a brainrot"
+    },
+    {
+     "id": "608be23e-057e-4aa8-a2eb-3049426de279",
+     "stepId": "31a5daf1-9126-41b8-a692-21515188b04b",
+     "createdAt": "2025-10-16T13:40:42.520Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.32421875,
+     "content": "I'm sorry, but I don't have information on a game called \"Steal a Brainrot.\" If you have any other questions or need assistance with our available games, feel free to ask. Have a great day! 😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      }
+     ]
+    }
+   ],
+   "min_score": 0.32421875,
+   "source": "Playground",
+   "anonymous_id": null,
+   "user_id": "1ecaf646-d51d-49ab-b5e2-d497d822144a",
+   "last_message_at": "2025-10-16T13:40:44.034194+00:00",
+   "sentiment": null,
+   "external_conversation_id": null,
+   "title": "Inquiry about 'Steal a Brainrot' game",
+   "topics": [],
+   "external_messages": []
+  },
+  {
+   "chatbot_id": "4y_-QRHE_CFcBSRACUBxQ",
+   "account_id": "bca29db8-3873-46a7-8e02-33974adbf4ab",
+   "country": "India",
+   "created_at": "2025-10-16T12:16:27.172854+00:00",
+   "form_submission": null,
+   "id": "17624898-3f31-451c-b57e-6ba6072501ea",
+   "messages": [
+    {
+     "createdAt": "2025-10-16T12:16:18.074Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "🎮 Welcome to Rapid Games! I'm your personal gaming assistant, ready to help you discover amazing games from our collection of 21+ titles sourced from CrazyGames and Poki."
+    },
+    {
+     "id": "34f897a2-3770-40c3-9445-6287f43eb18d",
+     "createdAt": "2025-10-16T12:16:18.074Z",
+     "role": "user",
+     "content": "Tell me some great games"
+    },
+    {
+     "id": "a8dc1190-afbc-45c8-83da-bba02835b5ec",
+     "stepId": "6acdfea6-56a1-40af-ad12-053a16de29fe",
+     "createdAt": "2025-10-16T12:16:24.672Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.66796875,
+     "content": "Sure! Here are some great games you might enjoy:\n\n1. **Idle Airport Tycoon** - Manage your own airport and become a tycoon.\n2. **Bridge Race** - Compete to build the fastest bridge.\n3. **Airport Security** - Experience the life of an airport security officer.\n4. **Logo Quiz Game** - Test your knowledge of logos from around the world.\n5. **Archery World Tour** - Show off your archery skills in this exciting game.\n\nFeel free to ask about any specific game or explore more options! Have fun! 😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/index.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    }
+   ],
+   "min_score": 0.66796875,
+   "source": "Widget or Iframe",
+   "anonymous_id": "e8997e41-f93c-47dc-b783-dd00588d968d",
+   "user_id": null,
+   "last_message_at": "2025-10-16T12:16:27.172854+00:00",
+   "sentiment": null,
+   "external_conversation_id": null,
+   "title": "Conversation about Great Games",
+   "topics": [],
+   "external_messages": []
+  },
+  {
+   "chatbot_id": "4y_-QRHE_CFcBSRACUBxQ",
+   "account_id": "bca29db8-3873-46a7-8e02-33974adbf4ab",
+   "country": "India",
+   "created_at": "2025-09-30T13:32:58.071842+00:00",
+   "form_submission": null,
+   "id": "4e8dac4b-5524-4b37-a599-81372c364024",
+   "messages": [
+    {
+     "createdAt": "2025-09-30T13:32:54.693Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "🎮 Welcome to Rapid Games! I'm your personal gaming assistant, ready to help you discover amazing games from our collection of 21+ titles sourced from CrazyGames and Poki."
+    },
+    {
+     "createdAt": "2025-09-30T13:32:54.693Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Whether you're looking for action-packed racing games, brain-teasing puzzles, competitive sports challenges, or relaxing idle games, I can help you find the perfect match!"
+    },
+    {
+     "createdAt": "2025-09-30T13:32:54.693Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "How can I assist you today?"
+    },
+    {
+     "createdAt": "2025-09-30T13:32:54.693Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Recommend games based on your preferences"
+    },
+    {
+     "createdAt": "2025-09-30T13:32:54.693Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Find specific games or genres"
+    },
+    {
+     "createdAt": "2025-09-30T13:32:54.693Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Explain game features and difficulty levels"
+    },
+    {
+     "createdAt": "2025-09-30T13:32:54.693Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Help you navigate the website"
+    },
+    {
+     "createdAt": "2025-09-30T13:32:54.693Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Answer any questions about our game collection"
+    },
+    {
+     "createdAt": "2025-09-30T13:32:54.693Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Just tell me what kind of gaming experience you're in the mood for, and let's find your next favorite game! 🚀"
+    },
+    {
+     "id": "f4f6589e-d594-40fa-8ffd-c69cc5a68569",
+     "createdAt": "2025-09-30T13:32:54.693Z",
+     "role": "user",
+     "content": "helo"
+    },
+    {
+     "id": "1ef07693-e982-47f4-8761-4311a71ce6ff",
+     "stepId": "387c66fe-079d-4c5d-ab14-bb303b88d996",
+     "createdAt": "2025-09-30T13:32:57.621Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.494140625,
+     "content": "Hello! How can I assist you today? 😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/index.html"
+      }
+     ]
+    },
+    {
+     "id": "b45229f5-abac-48ee-97b7-c40e8a22b79c",
+     "createdAt": "2025-10-14T13:25:36.661Z",
+     "role": "user",
+     "content": "tell me a gun game"
+    },
+    {
+     "id": "57299b3f-36c2-453e-b516-d365c5d8d01c",
+     "stepId": "6c3a1866-76bb-48af-8629-0fc140795c43",
+     "createdAt": "2025-10-14T13:25:43.106Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.46875,
+     "content": "Sure! If you're looking for a gun game, you might enjoy \"Sniper Mission.\" It's an exciting game where you can test your shooting skills. You can find it on CrazyGames. Have fun playing! 🎯",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    },
+    {
+     "id": "03fcad9f-c972-4ea8-ba25-62d02d9b4a2f",
+     "createdAt": "2025-10-14T13:25:54.075Z",
+     "role": "user",
+     "content": "Give the link for it"
+    },
+    {
+     "id": "a55f5771-3881-464a-9090-de5847d3aa74",
+     "stepId": "3d9581b4-cd45-41d1-a6e0-24d875afeea7",
+     "createdAt": "2025-10-14T13:25:57.826Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.486328125,
+     "content": "Of course! You can play \"Sniper Mission\" by following this [link](https://www.crazygames.com/game/sniper-mission-blj). Enjoy the game! 😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    }
+   ],
+   "min_score": 0.46875,
+   "source": "Widget or Iframe",
+   "anonymous_id": "34371e0a-7b2a-4f26-8ae7-fcc6871bcda8",
+   "user_id": null,
+   "last_message_at": "2025-10-14T13:25:57.897976+00:00",
+   "sentiment": null,
+   "external_conversation_id": null,
+   "title": "Greeting Exchange",
+   "topics": [],
+   "external_messages": []
+  },
+  {
+   "chatbot_id": "4y_-QRHE_CFcBSRACUBxQ",
+   "account_id": "bca29db8-3873-46a7-8e02-33974adbf4ab",
+   "country": "United States",
+   "created_at": "2025-09-25T12:36:42.77651+00:00",
+   "form_submission": null,
+   "id": "4d3c22c2-bb71-4b39-9ab5-b8240cf75377",
+   "messages": [
+    {
+     "createdAt": "2025-09-25T12:36:38.952Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "🎮 Welcome to Rapid Games! I'm your personal gaming assistant, ready to help you discover amazing games from our collection of 21+ titles sourced from CrazyGames and Poki."
+    },
+    {
+     "createdAt": "2025-09-25T12:36:38.952Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Whether you're looking for action-packed racing games, brain-teasing puzzles, competitive sports challenges, or relaxing idle games, I can help you find the perfect match!"
+    },
+    {
+     "createdAt": "2025-09-25T12:36:38.952Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "How can I assist you today?"
+    },
+    {
+     "createdAt": "2025-09-25T12:36:38.952Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Recommend games based on your preferences"
+    },
+    {
+     "createdAt": "2025-09-25T12:36:38.952Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Find specific games or genres"
+    },
+    {
+     "createdAt": "2025-09-25T12:36:38.952Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Explain game features and difficulty levels"
+    },
+    {
+     "createdAt": "2025-09-25T12:36:38.952Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Help you navigate the website"
+    },
+    {
+     "createdAt": "2025-09-25T12:36:38.952Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Answer any questions about our game collection"
+    },
+    {
+     "createdAt": "2025-09-25T12:36:38.952Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Just tell me what kind of gaming experience you're in the mood for, and let's find your next favorite game! 🚀"
+    },
+    {
+     "id": "1440a952-92bb-4204-9667-3d576e6cc66b",
+     "createdAt": "2025-09-25T12:36:38.952Z",
+     "role": "user",
+     "content": "What are the best words I can use"
+    },
+    {
+     "id": "258891da-66e5-40e9-bc01-d5f01448ae03",
+     "stepId": "7a2acff6-5ac8-4589-b91f-0922e513abdb",
+     "createdAt": "2025-09-25T12:36:42.176Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.37109375,
+     "content": "I'm here to help with gaming-related inquiries! If you're looking for game recommendations or have questions about our game collection, feel free to ask. 😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    },
+    {
+     "id": "c3c1391b-2d2a-44c2-85b4-2c8fb8341b8f",
+     "createdAt": "2025-09-25T12:36:50.038Z",
+     "role": "user",
+     "content": "I meant games"
+    },
+    {
+     "id": "e7735aeb-d2e1-4ee9-ab1e-cbce7e5edb07",
+     "stepId": "c0217dee-1c1a-4b91-ac07-39440bbdb75b",
+     "createdAt": "2025-09-25T12:36:57.884Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.60546875,
+     "content": "Got it! If you're looking for some great games to play, here are a few recommendations from our collection:\n\n1. **Idle Airport Tycoon** - Manage your own airport and watch it grow!\n2. **Bridge Race** - Compete to build the longest bridge and reach the finish line first.\n3. **Logo Quiz Game** - Test your knowledge of brand logos from around the world.\n4. **Archery World Tour** - Hone your archery skills in this exciting sports game.\n5. **Paper.io 2** - Conquer territory and outsmart your opponents in this addictive multiplayer game.\n\nIf you have a specific genre or type of game in mind, let me know, and I can suggest more options. Enjoy your gaming! 🎮",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    },
+    {
+     "id": "5c996839-fb93-4343-ba1c-a915b72e2966",
+     "createdAt": "2025-09-26T12:57:18.720Z",
+     "role": "user",
+     "content": "What are the latest gamnes"
+    },
+    {
+     "id": "91125d88-1a9c-40d0-bf72-433eac22d317",
+     "stepId": "9ab37f7f-2837-44c2-a861-fb75e9f2c5ec",
+     "createdAt": "2025-09-26T12:57:24.977Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.59375,
+     "content": "I currently don't have access to the latest game releases beyond my training data, which goes up to October 2023. However, I can help you explore the exciting games available in our collection, such as \"Idle Airport Tycoon,\" \"Bridge Race,\" and \"Logo Quiz Game.\" If you have any specific preferences or genres in mind, feel free to let me know, and I'll be happy to assist you further! 😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      }
+     ]
+    },
+    {
+     "id": "c3980ae7-3d93-4001-94cd-361b4ac44d95",
+     "createdAt": "2025-09-26T12:57:41.894Z",
+     "role": "user",
+     "content": "What is the highest rated games"
+    },
+    {
+     "id": "28f353ca-c324-437f-a16b-b26a0f975f60",
+     "stepId": "bd1f3642-b096-41a6-8ea8-63e47d0ad1ad",
+     "createdAt": "2025-09-26T12:57:52.257Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.494140625,
+     "content": "While I don't have access to real-time ratings, I can suggest some popular and well-loved games from our collection that players often enjoy:\n\n1. **Idle Airport Tycoon** - A fun and engaging management game where you build and expand your airport.\n2. **Bridge Race** - A competitive and strategic game where you race to build the longest bridge.\n3. **Logo Quiz Game** - A challenging trivia game that tests your knowledge of brand logos.\n4. **Archery World Tour** - A sports game that lets you test your archery skills in various settings.\n5. **Paper.io 2** - A multiplayer game where you aim to conquer as much territory as possible.\n\nThese games are known for their engaging gameplay and have been enjoyed by many players. If you have specific preferences, let me know, and I can recommend more games for you! 🎮",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      }
+     ]
+    },
+    {
+     "id": "662e5356-af35-40cf-af59-9dbc8234e0ec",
+     "createdAt": "2025-09-30T12:36:49.123Z",
+     "role": "user",
+     "content": "Tell me games about car racing"
+    },
+    {
+     "id": "d6a945be-c870-40ee-98b2-f7dcea0dc2d8",
+     "stepId": "0d74dd25-4b76-443f-ab22-42ef633c2045",
+     "createdAt": "2025-09-30T12:36:56.170Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.5546875,
+     "content": "If you're a fan of car racing games, here are some exciting options from our collection:\n\n1. **Racing Limits** - Experience the thrill of high-speed racing with realistic physics and challenging tracks.\n2. **Super Star Car** - Race through various circuits and aim for the top spot in this fast-paced racing game.\n3. **Sportcars Crash** - Enjoy the adrenaline rush of racing while avoiding crashes in this action-packed game.\n\nThese games offer a mix of speed, strategy, and excitement. If you have any other preferences or need more information, feel free to ask! 🏎️💨",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      }
+     ]
+    },
+    {
+     "id": "767d11e5-043d-4b31-abd6-6492b8227d52",
+     "createdAt": "2025-09-30T12:46:17.183Z",
+     "role": "user",
+     "content": "add rating system for the games here"
+    },
+    {
+     "id": "e8eb256c-03cd-463e-a2ac-15d465402984",
+     "stepId": "f58e31c5-b136-4ef1-9d83-da1b7dbf47de",
+     "createdAt": "2025-09-30T12:46:24.149Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.318359375,
+     "content": "I appreciate your interest in enhancing the gaming experience! However, implementing a rating system is beyond my capabilities. I recommend checking out user reviews and ratings on the platforms where the games are hosted, like CrazyGames and Poki, to get a sense of how other players are enjoying them. If you have any other questions or need further assistance, feel free to let me know. Happy gaming! 🎮😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      }
+     ]
+    },
+    {
+     "id": "f6b649e4-6750-4e2a-bd1e-2decd8aec13b",
+     "createdAt": "2025-10-14T12:14:16.593Z",
+     "role": "user",
+     "content": "Tell me the coolest games I can plat"
+    },
+    {
+     "id": "c14fbd26-6999-4595-97a7-7fb3a77c87e2",
+     "stepId": "d38ed0d7-f1f6-44e1-be6b-c5a1d87facfd",
+     "createdAt": "2025-10-14T12:14:26.365Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.388671875,
+     "content": "If you're looking for some cool games to dive into, here are a few that offer unique and exciting experiences:\n\n1. **Solar Smash** - Unleash your creativity and destructive powers by simulating the destruction of planets.\n2. **Thief Puzzle** - Challenge your brain with clever puzzles as you help the thief achieve his goals.\n3. **Space Waves** - Navigate through space and overcome obstacles in this thrilling adventure.\n4. **Traffic Rider VVQ** - Experience the rush of riding a motorcycle through traffic in this immersive game.\n5. **Sniper Mission** - Test your precision and strategy in this action-packed sniper game.\n\nThese games offer a mix of creativity, strategy, and excitement. If you have specific interests or genres in mind, let me know, and I can suggest more options! Enjoy your gaming journey! 🚀🎮",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      }
+     ]
+    },
+    {
+     "id": "4d256a92-f226-40c8-83f8-4815d419b57f",
+     "createdAt": "2025-10-14T12:14:32.211Z",
+     "role": "user",
+     "content": "I am a pro"
+    },
+    {
+     "id": "55d96386-388a-4ccb-a94b-017f36cee845",
+     "stepId": "d266e856-4947-46d5-905f-c4fa2d7a00e3",
+     "createdAt": "2025-10-14T12:14:41.593Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.53515625,
+     "content": "That's awesome! As a pro gamer, you might enjoy games that offer a bit more challenge and depth. Here are some suggestions that could match your skills:\n\n1. **Combat Reloaded 2** - Engage in intense multiplayer battles and showcase your shooting skills.\n2. **Racing Limits** - Push your racing abilities to the limit with high-speed challenges and realistic physics.\n3. **Archery World Tour** - Test your precision and timing in various archery challenges around the world.\n4. **Sniper Mission** - Hone your sniper skills with challenging missions that require strategy and accuracy.\n\nThese games are designed to test your abilities and provide a rewarding experience. If you have any specific preferences or need more recommendations, feel free to let me know. Keep up the great gaming! 🎮🔥",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames/"
+      }
+     ]
+    }
+   ],
+   "min_score": 0.318359375,
+   "source": "Widget or Iframe",
+   "anonymous_id": "e8997e41-f93c-47dc-b783-dd00588d968d",
+   "user_id": null,
+   "last_message_at": "2025-10-14T12:14:41.644022+00:00",
+   "sentiment": null,
+   "external_conversation_id": null,
+   "title": "Gaming Inquiry Assistance",
+   "topics": [],
+   "external_messages": []
+  },
+  {
+   "chatbot_id": "4y_-QRHE_CFcBSRACUBxQ",
+   "account_id": "bca29db8-3873-46a7-8e02-33974adbf4ab",
+   "country": "India",
+   "created_at": "2025-09-25T12:33:46.083927+00:00",
+   "form_submission": null,
+   "id": "6394d53b-4140-4836-9191-ed4b11036933",
+   "messages": [
+    {
+     "id": "cc22a6bb-ee13-4812-85b3-c0ed7a49469e",
+     "createdAt": "2025-09-25T12:33:42.429Z",
+     "role": "user",
+     "content": "gihqer"
+    },
+    {
+     "id": "ec0ca691-3105-42bf-a5a9-83fc64fb5d08",
+     "stepId": "ffd3ec3a-9b41-4c83-ba68-db9bbd7572fe",
+     "createdAt": "2025-09-25T12:33:45.574Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.388671875,
+     "content": "It seems like there might have been a typo or an error in your message. Could you please clarify or provide more details so I can assist you better? 😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    }
+   ],
+   "min_score": 0.388671875,
+   "source": "Widget or Iframe",
+   "anonymous_id": "cfc9b982-7a58-4e36-b6ac-cc91aa01e676",
+   "user_id": null,
+   "last_message_at": "2025-09-25T12:33:46.083927+00:00",
+   "sentiment": null,
+   "external_conversation_id": null,
+   "title": "Clarification Needed for User's Message",
+   "topics": [],
+   "external_messages": []
+  },
+  {
+   "chatbot_id": "4y_-QRHE_CFcBSRACUBxQ",
+   "account_id": "bca29db8-3873-46a7-8e02-33974adbf4ab",
+   "country": "India",
+   "created_at": "2025-09-25T12:30:28.734142+00:00",
+   "form_submission": null,
+   "id": "0a2debfb-1e04-4d22-99cb-6e4937151dbd",
+   "messages": [
+    {
+     "id": "9c214885-983c-4605-a696-2d61e6e74433",
+     "createdAt": "2025-09-25T12:30:20.887Z",
+     "role": "user",
+     "content": "Can you suggest some games for me"
+    },
+    {
+     "id": "8b15fce1-cd27-4892-8099-a0daa316f185",
+     "stepId": "e0ac1950-839a-43fb-9ce5-50e42c4cb35c",
+     "createdAt": "2025-09-25T12:30:28.047Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.73828125,
+     "content": "Of course! Here are some games you might enjoy:\n\n1. [Idle Airport Tycoon](https://www.crazygames.com/game/idle-airport-tycoon)\n2. [Bridge Race](https://www.crazygames.com/game/bridge-race)\n3. [Airport Security](https://www.crazygames.com/game/airport-security)\n4. [Logo Quiz Game](https://www.crazygames.com/game/logo-quiz-game-world-trivia)\n5. [Archery World Tour](https://www.crazygames.com/game/archery-world-tour)\n6. [Mafia Billiard Tricks](https://www.crazygames.com/game/mafia-billard-tricks)\n7. [Merge Construct](https://www.crazygames.com/game/merge-construct)\n8. [Paper.io 2](https://www.crazygames.com/game/paper-io-2)\n9. [Pool Hustlers](https://www.crazygames.com/game/pool-hustlers)\n10. [Soccer Skills World Cup](https://www.poki.com/en/g/soccer-skills-world-cup)\n\nI hope you find something you like! Enjoy your gaming time! 😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    }
+   ],
+   "min_score": 0.73828125,
+   "source": "Widget or Iframe",
+   "anonymous_id": "cfc9b982-7a58-4e36-b6ac-cc91aa01e676",
+   "user_id": null,
+   "last_message_at": "2025-09-25T12:30:28.734142+00:00",
+   "sentiment": null,
+   "external_conversation_id": null,
+   "title": "Game Suggestions Conversation",
+   "topics": [],
+   "external_messages": []
+  },
+  {
+   "chatbot_id": "4y_-QRHE_CFcBSRACUBxQ",
+   "account_id": "bca29db8-3873-46a7-8e02-33974adbf4ab",
+   "country": "India",
+   "created_at": "2025-09-25T09:09:52.835074+00:00",
+   "form_submission": null,
+   "id": "b1165079-82a1-4d60-ade7-20ab2bc4444b",
+   "messages": [
+    {
+     "createdAt": "2025-09-25T09:09:45.865Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "🎮 Welcome to Rapid Games! I'm your personal gaming assistant, ready to help you discover amazing games from our collection of 21+ titles sourced from CrazyGames and Poki."
+    },
+    {
+     "createdAt": "2025-09-25T09:09:45.865Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Whether you're looking for action-packed racing games, brain-teasing puzzles, competitive sports challenges, or relaxing idle games, I can help you find the perfect match!"
+    },
+    {
+     "createdAt": "2025-09-25T09:09:45.865Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "How can I assist you today?"
+    },
+    {
+     "createdAt": "2025-09-25T09:09:45.865Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Recommend games based on your preferences"
+    },
+    {
+     "createdAt": "2025-09-25T09:09:45.865Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Find specific games or genres"
+    },
+    {
+     "createdAt": "2025-09-25T09:09:45.865Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Explain game features and difficulty levels"
+    },
+    {
+     "createdAt": "2025-09-25T09:09:45.865Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Help you navigate the website"
+    },
+    {
+     "createdAt": "2025-09-25T09:09:45.865Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Answer any questions about our game collection"
+    },
+    {
+     "createdAt": "2025-09-25T09:09:45.865Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Just tell me what kind of gaming experience you're in the mood for, and let's find your next favorite game! 🚀"
+    },
+    {
+     "id": "28a0aaeb-3008-4ae2-bb44-3c1a85f7511e",
+     "createdAt": "2025-09-25T09:09:45.865Z",
+     "role": "user",
+     "content": "What games are for pros"
+    },
+    {
+     "id": "693a3dc1-1d35-4c64-a390-7c15f4235026",
+     "stepId": "977e473b-2789-46d8-844c-c71928a8f04c",
+     "createdAt": "2025-09-25T09:09:51.789Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.408203125,
+     "content": "If you're looking for games that challenge even the most seasoned players, here are a few from our collection that might interest you:\n\n1. **Sniper Mission** - Test your precision and strategy in this intense shooting game.\n2. **Racing Limits** - Push your driving skills to the limit with high-speed racing challenges.\n3. **Combat Reloaded 2** - Engage in fast-paced multiplayer battles that require quick reflexes and tactical thinking.\n\nThese games are designed to provide a thrilling experience for those who love a challenge. Enjoy your gaming session! 🎮",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    }
+   ],
+   "min_score": 0.408203125,
+   "source": "Widget or Iframe",
+   "anonymous_id": "1e1e9ddc-03cc-4285-9c25-4622bc4b1e29",
+   "user_id": null,
+   "last_message_at": "2025-09-25T09:09:52.835074+00:00",
+   "sentiment": null,
+   "external_conversation_id": null,
+   "title": "Games for Pros",
+   "topics": [],
+   "external_messages": []
+  },
+  {
+   "chatbot_id": "4y_-QRHE_CFcBSRACUBxQ",
+   "account_id": "bca29db8-3873-46a7-8e02-33974adbf4ab",
+   "country": "India",
+   "created_at": "2025-09-24T15:59:36.25293+00:00",
+   "form_submission": null,
+   "id": "1ed07bed-aca8-4cb9-82f9-0810e1a8c4c1",
+   "messages": [
+    {
+     "createdAt": "2025-09-24T15:59:34.359Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Hi! What can I help you with?"
+    },
+    {
+     "id": "edd023d9-8ee7-4cee-9159-11f370fa0f3d",
+     "createdAt": "2025-09-24T15:59:34.359Z",
+     "role": "user",
+     "content": "Hello"
+    },
+    {
+     "id": "caebac8b-3aac-4912-8425-1af6bf6690f1",
+     "stepId": "ed32fb0d-33e2-4d79-b889-1ee78f5eda1c",
+     "createdAt": "2025-09-24T15:59:35.713Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.546875,
+     "content": "Hello! How can I assist you today?",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    },
+    {
+     "id": "8db6d1a7-3e99-4ca8-8e7e-a0b41e97a36b",
+     "createdAt": "2025-09-24T15:59:42.686Z",
+     "role": "user",
+     "content": "Who are the creators"
+    },
+    {
+     "id": "ba54f3ad-8a8e-4aad-9fc9-b8472edee3b4",
+     "stepId": "5c466f71-ede4-4bc0-88b5-f0ffa37c11e0",
+     "createdAt": "2025-09-24T15:59:46.610Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.357421875,
+     "content": "I'm here to help with your inquiries, but could you please specify what you mean by \"creators\"? Are you referring to the creators of a specific game or something else? Let me know so I can assist you better!",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    },
+    {
+     "id": "94c70c1f-7e55-4626-93df-efc981142015",
+     "createdAt": "2025-09-24T15:59:56.576Z",
+     "role": "user",
+     "content": "Who are the creators of the website"
+    },
+    {
+     "id": "4f404e8b-deb0-41af-b901-c73d2960c15f",
+     "stepId": "e44a5bd4-b88a-4571-ba78-658bac6a9db4",
+     "createdAt": "2025-09-24T16:00:00.277Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.419921875,
+     "content": "I'm sorry, but I don't have information on the creators of the website. If you have any other questions or need assistance with something else, feel free to ask!",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    },
+    {
+     "id": "53ad7a2b-5c4c-4e55-958a-9a16aa0895fc",
+     "createdAt": "2025-09-24T16:00:23.566Z",
+     "role": "user",
+     "content": "Are there any sports games available"
+    },
+    {
+     "id": "eb69a506-b6e7-4835-801a-b18d1e3ea097",
+     "stepId": "073158ad-5653-4b89-bb75-aedd17024756",
+     "createdAt": "2025-09-24T16:00:29.034Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.5625,
+     "content": "Yes, there are several sports games available! Here are a few you might enjoy:\n\n1. [Soccer Skills World Cup](https://www.poki.com/en/g/soccer-skills-world-cup)\n2. [Table Tennis World Tour](https://www.crazygames.com/game/table-tennis-world-tour)\n3. [Penalty Shooters 2](https://poki.com/en/g/penalty-shooters-2)\n\nFeel free to check them out and have fun! If you need more recommendations, just let me know. 😊",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    },
+    {
+     "id": "72877d73-71f0-4191-9d7a-7d4029a056d3",
+     "createdAt": "2025-09-24T16:00:45.511Z",
+     "role": "user",
+     "content": "Any games you would reccomend if I am a pro"
+    },
+    {
+     "id": "7f441002-bdfd-4d0a-9426-0c947dd14444",
+     "stepId": "05459065-ecae-4b65-b5cc-ac6c6f9ed349",
+     "createdAt": "2025-09-24T16:00:58.907Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.447265625,
+     "content": "If you're a pro and looking for a challenge, here are some games that might pique your interest:\n\n1. [Traffic Rider VVQ](https://www.crazygames.com/game/traffic-rider-vvq) - Test your skills in high-speed motorcycle racing.\n2. [Sniper Mission BLJ](https://www.crazygames.com/game/sniper-mission-blj) - Sharpen your aim and strategy in this sniper game.\n3. [Combat Reloaded 2](https://poki.com/en/g/combat-reloaded-2) - Engage in intense multiplayer battles.\n\nI hope you enjoy these games! Let me know if you need more suggestions. Have fun! 🎮",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    }
+   ],
+   "min_score": 0.357421875,
+   "source": "Playground",
+   "anonymous_id": null,
+   "user_id": "1ecaf646-d51d-49ab-b5e2-d497d822144a",
+   "last_message_at": "2025-09-24T16:00:59.017441+00:00",
+   "sentiment": null,
+   "external_conversation_id": null,
+   "title": "Greeting Conversation",
+   "topics": [],
+   "external_messages": []
+  },
+  {
+   "chatbot_id": "4y_-QRHE_CFcBSRACUBxQ",
+   "account_id": "bca29db8-3873-46a7-8e02-33974adbf4ab",
+   "country": "India",
+   "created_at": "2025-09-24T15:56:02.787516+00:00",
+   "form_submission": null,
+   "id": "40a7e3a0-305d-464b-9f83-2a7cccc9ca83",
+   "messages": [
+    {
+     "createdAt": "2025-09-24T15:55:57.677Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Hi! What can I help you with?"
+    },
+    {
+     "id": "1cc001a5-a6ce-48b0-97b7-09c95e4aa229",
+     "createdAt": "2025-09-24T15:55:57.677Z",
+     "role": "user",
+     "content": "Who are the creators"
+    },
+    {
+     "id": "ce282b69-65b8-4798-a881-5a8a4943dc78",
+     "stepId": "9447e56f-e5c7-4107-ac46-61b5874cc021",
+     "createdAt": "2025-09-24T15:56:02.194Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.412109375,
+     "content": "I'm here to assist you with inquiries related to Purv Taparia's portfolio and achievements. If you have any questions about Purv's books, coding skills, or other interests, feel free to ask!",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/mybooks.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/index.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/contactme.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/coding.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/chess.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/reading.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/skills.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    },
+    {
+     "id": "90e3e004-cd0e-41d5-93f9-12afc0826d91",
+     "createdAt": "2025-09-24T15:56:13.590Z",
+     "role": "user",
+     "content": "How many years old is Purv"
+    },
+    {
+     "id": "f29fddb3-561a-4080-a29b-d9f8154af39d",
+     "stepId": "c5850a3f-b252-431c-bad9-1d4d26ffa1ac",
+     "createdAt": "2025-09-24T15:56:17.792Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.81640625,
+     "content": "Purv Taparia is 9 years old. If you have any more questions about Purv, feel free to ask!",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/index.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/achievments.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/skills.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/mybooks.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/coding.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/contactme.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/chess.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/reading.html"
+      }
+     ]
+    },
+    {
+     "id": "9c63fade-436e-4cb5-854c-9cede3541fc3",
+     "createdAt": "2025-09-24T15:56:30.827Z",
+     "role": "user",
+     "content": "How many books has he written?"
+    },
+    {
+     "id": "3f8a97be-e1f0-466f-bb66-727807541332",
+     "stepId": "48334899-a764-4b81-a443-6ee2108b81ef",
+     "createdAt": "2025-09-24T15:56:34.561Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.859375,
+     "content": "Purv Taparia has written four books. If you'd like to know more about them or have any other questions, feel free to ask!",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/mybooks.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/index.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/contactme.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/chess.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/skills.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/achievments.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/coding.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/reading.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    },
+    {
+     "id": "e9cc5ac3-0730-451f-b309-45569303fa11",
+     "createdAt": "2025-09-24T15:56:44.825Z",
+     "role": "user",
+     "content": "Does he have a github account?"
+    },
+    {
+     "id": "bfb0dea7-516e-4e43-a2a2-77c6f1630982",
+     "stepId": "da59676d-03e3-40e0-ac41-f2e6727cbbc9",
+     "createdAt": "2025-09-24T15:56:51.721Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.765625,
+     "content": "There is no information available about Purv Taparia having a GitHub account. If you have any other questions about Purv's interests or achievements, feel free to ask!",
+     "source": "llm",
+     "matchedSources": [
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/reading.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/contactme.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/index.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/coding.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/chess.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/skills.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/mybooks.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/achievments.html"
+      },
+      {
+       "type": "link",
+       "name": "https://tapariapurv.github.io/rapidgames"
+      }
+     ]
+    }
+   ],
+   "min_score": 0.412109375,
+   "source": "Playground",
+   "anonymous_id": null,
+   "user_id": "1ecaf646-d51d-49ab-b5e2-d497d822144a",
+   "last_message_at": "2025-09-24T15:56:51.769712+00:00",
+   "sentiment": null,
+   "external_conversation_id": null,
+   "title": "Inquiry about Purv Taparia's Creators",
+   "topics": [],
+   "external_messages": []
+  },
+  {
+   "chatbot_id": "4y_-QRHE_CFcBSRACUBxQ",
+   "account_id": "bca29db8-3873-46a7-8e02-33974adbf4ab",
+   "country": "India",
+   "created_at": "2025-09-24T15:50:42.566674+00:00",
+   "form_submission": null,
+   "id": "1af3cfd0-ce0a-4e3d-a3dc-445bd444abd1",
+   "messages": [
+    {
+     "createdAt": "2025-09-24T15:50:34.435Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Hi! What can I help you with?"
+    },
+    {
+     "id": "5673ad5e-52d9-4edb-b521-c92b84dc81cc",
+     "createdAt": "2025-09-24T15:50:34.435Z",
+     "role": "user",
+     "content": "What is this website about"
+    },
+    {
+     "id": "a1c3af7d-8230-4935-a7ba-20f8169111ea",
+     "stepId": "9dda7579-b15b-4fe6-8bca-b73a1eff4ec1",
+     "createdAt": "2025-09-24T15:50:40.700Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.49609375,
+     "content": "I'm here to assist you with any inquiries, issues, or requests you might have. If you have any specific questions or need help with something, feel free to let me know!",
+     "source": "llm",
+     "matchedSources": []
+    }
+   ],
+   "min_score": 0.49609375,
+   "source": "Playground",
+   "anonymous_id": null,
+   "user_id": "1ecaf646-d51d-49ab-b5e2-d497d822144a",
+   "last_message_at": "2025-09-24T15:50:42.566674+00:00",
+   "sentiment": null,
+   "external_conversation_id": null,
+   "title": "Website Inquiry and Assistance",
+   "topics": [],
+   "external_messages": []
+  },
+  {
+   "chatbot_id": "4y_-QRHE_CFcBSRACUBxQ",
+   "account_id": "bca29db8-3873-46a7-8e02-33974adbf4ab",
+   "country": "India",
+   "created_at": "2025-09-23T13:30:19.390523+00:00",
+   "form_submission": null,
+   "id": "5f8162e0-999c-4802-abff-51da1d228153",
+   "messages": [
+    {
+     "createdAt": "2025-09-23T13:30:12.607Z",
+     "role": "assistant",
+     "type": "text",
+     "content": "Hi! What can I help you with?"
+    },
+    {
+     "id": "663a2ed7-30d1-42a4-a5a6-d49abf2d6769",
+     "createdAt": "2025-09-23T13:30:12.607Z",
+     "role": "user",
+     "content": "What games are car driving"
+    },
+    {
+     "id": "ca8cfae7-9065-4792-9bfe-10a96c83fd3d",
+     "stepId": "b309cb08-2a3f-4b87-ae9c-19c7e66b8474",
+     "createdAt": "2025-09-23T13:30:18.824Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.3359375,
+     "content": "There are many car driving games available across various platforms. Some popular ones include:\n\n1. **Forza Horizon Series** - Known for its open-world gameplay and stunning graphics.\n2. **Gran Turismo Series** - Offers a realistic driving experience with a wide range of cars and tracks.\n3. **Need for Speed Series** - Known for its arcade-style racing and thrilling police chases.\n4. **F1 Series** - Provides a realistic Formula 1 racing experience.\n5. **Assetto Corsa** - Known for its realistic physics and extensive modding community.\n\nIf you have a specific platform in mind, let me know, and I can provide more tailored suggestions. Enjoy your gaming!",
+     "source": "llm",
+     "matchedSources": []
+    },
+    {
+     "id": "f3f8e229-7ad3-49af-a448-7c774e820fac",
+     "createdAt": "2025-09-23T13:30:34.435Z",
+     "role": "user",
+     "content": "Who are the creators"
+    },
+    {
+     "id": "e5889942-e3b4-42e7-9b78-6f4b54d097cd",
+     "stepId": "82bbdfa2-c1f7-4de4-a2e2-5e6413311c00",
+     "createdAt": "2025-09-23T13:30:40.878Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.37109375,
+     "content": "Here are the creators of the car driving games I mentioned:\n\n1. **Forza Horizon Series** - Developed by Playground Games and published by Xbox Game Studios.\n2. **Gran Turismo Series** - Developed by Polyphony Digital and published by Sony Interactive Entertainment.\n3. **Need for Speed Series** - Developed by various studios over the years, including Ghost Games and Criterion Games, and published by Electronic Arts.\n4. **F1 Series** - Developed and published by Codemasters, which is now part of Electronic Arts.\n5. **Assetto Corsa** - Developed by Kunos Simulazioni.\n\nIf you have any more questions or need further assistance, feel free to ask!",
+     "source": "llm",
+     "matchedSources": []
+    },
+    {
+     "id": "3471e464-9510-4e82-ad6e-31b15938b6ca",
+     "createdAt": "2025-09-23T13:30:58.772Z",
+     "role": "user",
+     "content": "WHo are the creators of the website"
+    },
+    {
+     "id": "4809c5ae-7502-4d15-991a-b2ae0a9f19fc",
+     "stepId": "cdd8f941-04c1-442c-a748-d0a92ca78d88",
+     "createdAt": "2025-09-23T13:31:03.069Z",
+     "role": "assistant",
+     "type": "text",
+     "score": 0.31640625,
+     "content": "I'm here to help with inquiries related to my role, but it seems like your question might be outside the scope of the information I can provide. If you have any other questions or need assistance with something else, feel free to let me know!",
+     "source": "llm",
+     "matchedSources": []
+    }
+   ],
+   "min_score": 0.31640625,
+   "source": "Playground",
+   "anonymous_id": null,
+   "user_id": "1ecaf646-d51d-49ab-b5e2-d497d822144a",
+   "last_message_at": "2025-09-23T13:31:03.125269+00:00",
+   "sentiment": null,
+   "external_conversation_id": null,
+   "title": "Discussion on Car Driving Games",
+   "topics": [],
+   "external_messages": []
+  }
+ ]
+}

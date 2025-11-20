@@ -1,10 +1,324 @@
+body {
+    background-color:#1a1a2e;
+    font-family:"AvenirNextLTPro",sans-serif;
+}
+@font-face {
+    font-family: "AvenirNextLTPro";
+    src: url("/fonts/avenir/AvenirNextLTPro-Regular.otf") format("opentype");
+  }
+.nameheader {
+	float:left;
+	font-size:25;
+	margin-left:535px;
+	margin-top:5px;
+	font-family:Cursive;
+	color:black;
+    margin-bottom:10px;
+}
+.nameheader font:hover {
+	color:black
+}
+.topnav {
+	background-color:#f1f1f1;
+	overflow:hidden;
+	float:right;
+}
+.topnav a {
+	  float:left;
+	  color:black;
+	  text-align:center;
+	  padding: 14px 16px;
+      font-size:17px;
+}
+.topnav a:hover {
+		background-color:#ddd;
+		color:black;
+}
+.topnav a.active {
+		 background-color:#04AA6D;
+		 color:white;
+}
+.topnavpro {
+	   float:left;
+	   width:100%;
+        background-color:#f1f1f1;
+	   position:sticky;
+	   top:0;
+       border-radius:20px;
+       margin-bottom:15px;
+}
+
+a {
+    text-decoration:none;
+    color:blue;
+}
+a:hover {
+    color:purple;
+}
 .homepage-header {
-    height:5%;
-    width:90%;
-    float:right;
+    display: flex;
+    align-items: center;
+    padding: 15px 30px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
 }
 .logo {
     float:left;
-    width:1%;
-    height:1%;
+    width:110;
+    height:80;
+    border-radius:8px;
+}
+.search-bar {
+    margin-left: auto;
+}
+
+.first-row {
+    width:100%;
+    float:left;
+}
+.game-horizontal img{
+    width:388px ;
+    height:216px;
+    border-radius:20px;
+    margin-top:40px;
+    margin-left:20px;
+    float:left;
+    transition: all 0.3s ease-in-out;
+}
+.game-horizontal {
+    margin-top:2px;
+    position:relative;
+}
+.game-horizontal img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 5px 20px rgba(1, 132, 118, 0.5);
+}
+.float-right {
+    float: right !important;
+}
+.game-horizontal-last img{
+    width:388px ;
+    height:216px;
+    border-radius:20px;
+    margin-top:40px;
+    margin-left:20px;
+    float:left;
+    margin-bottom:20;
+    transition: all 0.3s ease-in-out;
+}
+.game-horizontal-last {
+    margin-top:2px;
+    position:relative;
+}
+.game-horizontal-last img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 5px 20px rgba(1, 132, 118, 0.5);
+}
+.game-horizontal-408x408 img{
+    width:408px ;
+    height:476px;
+    border-radius:20px;
+    margin-top:40px;
+    margin-left:20px;
+    float:left; 
+    transition: all 0.4s ease-in-out;
+}
+.game-horizontal-408x408 {
+    margin-top:2px;
+    position:relative;
+}
+.game-horizontal-408x408 img:hover {
+    overflow:hidden;
+    transform: scale(1.05);
+    box-shadow: 0 5px 15px rgba(1, 132, 118, 0.5);
+}
+.search-bar input {
+    padding: 10px 15px;
+    border: 2px solid rgba(1, 132, 118, 0.3);
+    border-radius: 25px;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    font-size: 14px;
+    width: 400px;
+    transition: all 0.3s ease;
+}
+
+.search-bar input:focus {
+    width: 500px;
+}
+
+.search-bar input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.about-content {
+    border-radius:8px;
+    margin-top:100;
+    background-color:rgb(204, 142, 233);
+    padding-left:200;
+    padding-right:200;
+    display:flex;
+    flex:1;
+    float:bottom;
+}
+.about-content-section {
+    margin-top:15px;
+}
+.about-content-section-center-content {
+    text-align:center;
+}
+.about-content-game-sources {
+    border-radius:8px;
+    margin-top:0.25;
+    background-color:rgb(2, 202, 247);
+    padding-left:200;
+    padding-right:200;
+    display:flex;
+    flex:1;
+    float:bottom;
+    text-align:center;
+}
+footer {
+    background-color: #11111b; 
+    color: #a9a9a9;
+    padding: 40px 20px;
+    margin-top: 50px;
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-section {
+    flex: 1;
+    padding: 0 20px;
+    min-width: 250px;
+    margin-bottom: 20px;
+}
+
+.footer-section h3 {
+    color: #ffffff;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #018476;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+
+.footer-section.about p {
+    line-height: 1.6;
+}
+
+.footer-section.links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section.links ul li a {
+    color: #a9a9a9;
+    transition: color 0.3s ease;
+}
+
+.footer-section.links ul li a:hover {
+    color: #ffffff;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 20px;
+    border-top: 1px solid #333;
+    width: 100%;
+}
+
+.error-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-sizing: border-box;
+}
+
+.error-graphic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.error-code {
+    font-size: 150px;
+    font-weight: bold;
+    color: #018476;
+}
+
+.error-ghost {
+    width: 100px;
+    height: 120px;
+    background: #f1f1f1;
+    border-radius: 50% 50% 0 0;
+    position: relative;
+    margin: 0 20px;
+    animation: float 2s ease-in-out infinite;
+}
+
+.error-ghost::before,
+.error-ghost::after {
+    content: '';
+    position: absolute;
+    top: 60px;
+    width: 20px;
+    height: 20px;
+    background: #1a1a2e;
+    border-radius: 50%;
+}
+
+.error-ghost::before {
+    left: 20px;
+}
+
+.error-ghost::after {
+    right: 20px;
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+}
+
+.error-title {
+    font-size: 48px;
+    margin: 0 0 10px 0;
+}
+
+.error-message {
+    font-size: 18px;
+    margin-bottom: 30px;
+    max-width: 500px;
+}
+
+.error-button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 25px;
+    font-size: 18px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.error-button:hover {
+    background-color: #05c783;
+    color: white;
 }
